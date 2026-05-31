@@ -205,7 +205,13 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 ---
 
 ## Source Code
+source-code/
+├── diabetes_prediction.py
+├── main.c
+└── read csv.cbp
 
+report/
+└── project-report.docx
 ### Python Implementation
 
 - diabetes_prediction.py
