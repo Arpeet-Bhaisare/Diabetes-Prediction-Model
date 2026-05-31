@@ -1,5 +1,5 @@
 Project screenshots and results.
----
+
 screenshots/
 │
 ├── first-5-records.png
@@ -9,4 +9,4 @@ screenshots/
 ├── average-age-analysis.png
 ├── logistic-regression-weights.png
 └── terminal-output.png
----
+
