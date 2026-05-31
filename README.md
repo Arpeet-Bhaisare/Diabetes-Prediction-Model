@@ -208,7 +208,7 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 
 ### Python Implementation
 
-- diabetes-prediction-.py
+- diabetes_prediction.py
 
 ### Additional Files
 
@@ -221,7 +221,7 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 
 ### Report
 
-- Report of the task.docx
+- project-report.docx
 
 ### Presentation
 
