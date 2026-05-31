@@ -3,12 +3,17 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red)
+
+---
 
 ## Project Overview
 
 This project predicts whether a patient is diabetic using Machine Learning techniques based on medical attributes and health indicators.
 
-The project was developed during my Data Science Internship at Exposys Data Labs Pvt. Ltd. from September 2022 to October 2022.
+The project was developed during my **Data Science Internship at Exposys Data Labs Pvt. Ltd.** from **19 September 2022 to 18 October 2022**.
+
+The objective was to prepare the dataset, train machine learning models, analyze feature relationships, and predict diabetes with high accuracy.
 
 ---
 
@@ -22,188 +27,164 @@ The project was developed during my Data Science Internship at Exposys Data Labs
 
 ### Problem Statement
 
-Diabetes is a chronic disease affecting people across all age groups. Early prediction of diabetes can help individuals take preventive measures and improve their lifestyle.
+Diabetes is a chronic disease affecting people across all age groups. Early prediction can help individuals take preventive measures and improve their lifestyle.
 
-The objective was:
+### Project Tasks
 
-* Prepare the dataset
-* Train machine learning models
-* Evaluate model performance
-* Predict diabetes with high accuracy
+- Prepare the dataset
+- Perform data preprocessing
+- Train machine learning models
+- Evaluate model performance
+- Predict diabetes with high accuracy
 
 ---
 
 ## Objectives
 
-* Data preprocessing
-* Feature analysis
-* Machine learning model training
-* Disease prediction
-* Model evaluation
-* Accuracy improvement
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature correlation analysis
+- Machine learning model training
+- Disease prediction
+- Accuracy evaluation
 
 ---
 
-## Technologies Used
+## Technologies & Tools Used
 
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
 ## Dataset Features
 
-The dataset contains attributes such as:
+The dataset contains the following medical attributes:
 
-* Pregnancies
-* Glucose
-* Blood Pressure
-* Skin Thickness
-* Insulin
-* BMI
-* Diabetes Pedigree Function
-* Age
-* Outcome
+- Pregnancies
+- Glucose
+- Blood Pressure
+- Skin Thickness
+- Insulin
+- BMI
+- Diabetes Pedigree Function
+- Age
+- Outcome
 
 ---
 
 ## Skills Demonstrated
 
-* Data Cleaning
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Machine Learning
-* Classification Models
-* Data Science
-* Python Programming
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning
+- Logistic Regression
+- Classification Models
+- Python Programming
+- Statistical Analysis
 
 ---
 
 ## Repository Structure
 
 ```text
-dataset/
-source-code/
-screenshots/
-report/
-presentation/
-certificates/
-README.md
-LICENSE
-```
-## Repository Structure
-
-```bash
-dataset/
-source-code/
-screenshots/
-report/
-presentation/
-certificates/
-README.md
-LICENSE
+Diabetes-Prediction-Model/
+│
+├── dataset/
+│   └── diabetes.csv
+│
+├── source-code/
+│   ├── diabetes-prediction-.py
+│   ├── main.c
+│   └── read csv.cbp
+│
+├── screenshots/
+│   ├── first-5-records.PNG
+│   ├── feature-correlations-output.PNG
+│   ├── correlation-heatmap.PNG
+│   ├── diabetic-vs-non-diabetic-barplot.PNG
+│   ├── average-age-analysis.PNG
+│   ├── logistic-regression-weights.PNG
+│   └── terminal-output.JPG
+│
+├── report/
+│   └── Report of the task.docx
+│
+├── presentation/
+│   └── diabetes presentation.pptx
+│
+├── certificates/
+│   ├── exposys-data-science-internship-certificate.pdf
+│   ├── simplilearn-introduction-to-data-science-certificate.pdf
+│   └── basics-of-machine-learning-certificate.pdf
+│
+├── README.md
+└── LICENSE
 ```
 
 ---
 
-## Project Screenshots
+# Project Screenshots
 
-### First 5 Records in Diabetes Dataset
+## First 5 Records in Diabetes Dataset
 
 ![Dataset Preview](screenshots/first-5-records.PNG)
 
 ---
 
-### Feature Correlation Output
+## Feature Correlation Output
 
 ![Correlation Output](screenshots/feature-correlations-output.PNG)
 
 ---
 
-### Correlation Heatmap
+## Correlation Heatmap
 
-![Heatmap](screenshots/correlation-heatmap.PNG)
+![Correlation Heatmap](screenshots/correlation-heatmap.PNG)
 
 ---
 
-### Diabetic vs Non-Diabetic Distribution
+## Diabetic vs Non-Diabetic Distribution
 
 ![Barplot](screenshots/diabetic-vs-non-diabetic-barplot.PNG)
 
 ---
 
-### Average Age Analysis
+## Average Age Analysis
 
 ![Average Age](screenshots/average-age-analysis.PNG)
 
 ---
 
-### Logistic Regression Feature Weights
+## Logistic Regression Feature Weights
 
 ![Weights](screenshots/logistic-regression-weights.PNG)
 
 ---
 
-### Terminal Output
+## Terminal Output
 
 ![Terminal Output](screenshots/terminal-output.JPG)
 
 ---
 
-## Project Files
+## Project Workflow
 
-### Dataset
-
-* diabetes.csv
-
-### Source Code
-
-* diabetes-prediction-.py
-* main.c
-* read csv.cbp
-
-### Report
-
-* Report of the task.docx
-
-### Presentation
-
-* diabetes presentation.pptx
-
----
-
-## Certifications
-
-### Internship Certificate
-
-* [Exposys Data Science Internship Certificate](certificates/exposys-data-science-internship-certificate.pdf)
-
-### Additional Learning Certifications
-
-* [Introduction to Data Science – Simplilearn](certificates/simplilearn-introduction-to-data-science-certificate.pdf)
-
-* [Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications](certificates/basics-of-machine-learning-certificate.pdf)
-
----
-
-## Skills Demonstrated
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Machine Learning
-* Logistic Regression
-* Classification Models
-* Python Programming
-* Pandas
-* NumPy
-* Scikit-Learn
-* Statistical Analysis
+1. Load Dataset
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Correlation Analysis
+5. Feature Selection
+6. Model Training
+7. Logistic Regression Implementation
+8. Accuracy Evaluation
+9. Diabetes Prediction
 
 ---
 
@@ -211,31 +192,40 @@ LICENSE
 
 The model analyzes patient health data and predicts the likelihood of diabetes based on medical indicators.
 
-Key tasks performed:
+### Key Activities
 
-* Dataset preprocessing
-* Feature correlation analysis
-* Data visualization
-* Model training
-* Logistic Regression implementation
-* Prediction generation
-* Accuracy evaluation
-
----
+- Dataset preprocessing
+- Feature correlation analysis
+- Data visualization
+- Model training
+- Logistic Regression implementation
+- Prediction generation
+- Accuracy evaluation
 
 ---
 
-## Project Results
+## Source Code
 
-The model analyzes patient health data and predicts the likelihood of diabetes.
+### Python Implementation
 
-Key activities:
+- diabetes-prediction-.py
 
-* Data preprocessing
-* Feature selection
-* Model training
-* Accuracy evaluation
-* Prediction generation
+### Additional Files
+
+- main.c
+- read csv.cbp
+
+---
+
+## Project Documentation
+
+### Report
+
+- Report of the task.docx
+
+### Presentation
+
+- diabetes presentation.pptx
 
 ---
 
@@ -243,22 +233,42 @@ Key activities:
 
 ### Internship Certificate
 
-* Exposys Data Labs – Data Science Internship
+- Exposys Data Labs – Data Science Internship Certificate
 
 ### Additional Learning Certifications
 
-* Introduction to Data Science – SkillUp by Simplilearn
-* Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications
+- Introduction to Data Science – SkillUp by Simplilearn
+- Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications (UK)
+
+---
+
+## Learning Outcomes
+
+- Data preprocessing techniques
+- Exploratory Data Analysis (EDA)
+- Correlation analysis
+- Machine learning fundamentals
+- Logistic Regression implementation
+- Model evaluation techniques
+- Healthcare data analysis
 
 ---
 
 ## Future Improvements
 
-* Deploy as Web Application
-* Add Multiple ML Algorithms
-* Improve Accuracy
-* Create Interactive Dashboard
-* Real-Time Prediction Interface
+- Deploy as a Web Application
+- Add Multiple Machine Learning Algorithms
+- Improve Prediction Accuracy
+- Create Interactive Dashboard
+- Real-Time Prediction Interface
+- Streamlit Deployment
+- Model Comparison Dashboard
+
+---
+
+## License
+
+This project is licensed under the MIT License.
 
 ---
 
@@ -266,14 +276,17 @@ Key activities:
 
 **Arpeet Bhaisare**
 
-B.Tech – Electronics & Communication Engineering
-
+B.Tech – Electronics & Communication Engineering  
 Indian Institute of Information Technology (IIIT) Bhopal
 
 ### Connect With Me
 
-LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
 
-GitHub:
+**GitHub:**  
 https://github.com/Arpeet-Bhaisare
+
+---
+
+⭐ If you found this project useful, consider giving it a star.
