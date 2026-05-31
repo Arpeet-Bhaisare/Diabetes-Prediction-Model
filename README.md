@@ -31,33 +31,33 @@ Diabetes is a chronic disease affecting people across all age groups. Early pred
 
 ### Project Tasks
 
-- Prepare the dataset
-- Perform data preprocessing
-- Train machine learning models
-- Evaluate model performance
-- Predict diabetes with high accuracy
+* Prepare the dataset
+* Perform data preprocessing
+* Train machine learning models
+* Evaluate model performance
+* Predict diabetes with high accuracy
 
 ---
 
 ## Objectives
 
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature correlation analysis
-- Machine learning model training
-- Disease prediction
-- Accuracy evaluation
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature correlation analysis
+* Machine learning model training
+* Disease prediction
+* Accuracy evaluation
 
 ---
 
 ## Technologies & Tools Used
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Jupyter Notebook
 
 ---
 
@@ -65,29 +65,29 @@ Diabetes is a chronic disease affecting people across all age groups. Early pred
 
 The dataset contains the following medical attributes:
 
-- Pregnancies
-- Glucose
-- Blood Pressure
-- Skin Thickness
-- Insulin
-- BMI
-- Diabetes Pedigree Function
-- Age
-- Outcome
+* Pregnancies
+* Glucose
+* Blood Pressure
+* Skin Thickness
+* Insulin
+* BMI
+* Diabetes Pedigree Function
+* Age
+* Outcome
 
 ---
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning
-- Logistic Regression
-- Classification Models
-- Python Programming
-- Statistical Analysis
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Machine Learning
+* Logistic Regression
+* Classification Models
+* Python Programming
+* Statistical Analysis
 
 ---
 
@@ -100,7 +100,7 @@ Diabetes-Prediction-Model/
 │   └── diabetes.csv
 │
 ├── source-code/
-│   ├── diabetes-prediction-.py
+│   ├── diabetes_prediction.py
 │   ├── main.c
 │   └── read csv.cbp
 │
@@ -114,7 +114,7 @@ Diabetes-Prediction-Model/
 │   └── terminal-output.JPG
 │
 ├── report/
-│   └── Report of the task.docx
+│   └── project-report.docx
 │
 ├── presentation/
 │   └── diabetes presentation.pptx
@@ -194,32 +194,26 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 
 ### Key Activities
 
-- Dataset preprocessing
-- Feature correlation analysis
-- Data visualization
-- Model training
-- Logistic Regression implementation
-- Prediction generation
-- Accuracy evaluation
+* Dataset preprocessing
+* Feature correlation analysis
+* Data visualization
+* Model training
+* Logistic Regression implementation
+* Prediction generation
+* Accuracy evaluation
 
 ---
 
 ## Source Code
-source-code/
-├── diabetes_prediction.py
-├── main.c
-└── read csv.cbp
 
-report/
-└── project-report.docx
 ### Python Implementation
 
-- diabetes_prediction.py
+* diabetes_prediction.py
 
 ### Additional Files
 
-- main.c
-- read csv.cbp
+* main.c
+* read csv.cbp
 
 ---
 
@@ -227,11 +221,11 @@ report/
 
 ### Report
 
-- project-report.docx
+* [Project Report](report/project-report.docx)
 
 ### Presentation
 
-- diabetes presentation.pptx
+* [Project Presentation](presentation/diabetes%20presentation.pptx)
 
 ---
 
@@ -239,36 +233,37 @@ report/
 
 ### Internship Certificate
 
-- Exposys Data Labs – Data Science Internship Certificate
+* [Exposys Data Science Internship Certificate](certificates/exposys-data-science-internship-certificate.pdf)
 
 ### Additional Learning Certifications
 
-- Introduction to Data Science – SkillUp by Simplilearn
-- Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications (UK)
+* [Introduction to Data Science – Simplilearn](certificates/simplilearn-introduction-to-data-science-certificate.pdf)
+
+* [Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications](certificates/basics-of-machine-learning-certificate.pdf)
 
 ---
 
 ## Learning Outcomes
 
-- Data preprocessing techniques
-- Exploratory Data Analysis (EDA)
-- Correlation analysis
-- Machine learning fundamentals
-- Logistic Regression implementation
-- Model evaluation techniques
-- Healthcare data analysis
+* Data preprocessing techniques
+* Exploratory Data Analysis (EDA)
+* Correlation analysis
+* Machine learning fundamentals
+* Logistic Regression implementation
+* Model evaluation techniques
+* Healthcare data analysis
 
 ---
 
 ## Future Improvements
 
-- Deploy as a Web Application
-- Add Multiple Machine Learning Algorithms
-- Improve Prediction Accuracy
-- Create Interactive Dashboard
-- Real-Time Prediction Interface
-- Streamlit Deployment
-- Model Comparison Dashboard
+* Deploy as a Web Application
+* Add Multiple Machine Learning Algorithms
+* Improve Prediction Accuracy
+* Create Interactive Dashboard
+* Real-Time Prediction Interface
+* Streamlit Deployment
+* Model Comparison Dashboard
 
 ---
 
@@ -282,16 +277,14 @@ This project is licensed under the MIT License.
 
 **Arpeet Bhaisare**
 
-B.Tech – Electronics & Communication Engineering  
+B.Tech – Electronics & Communication Engineering
 Indian Institute of Information Technology (IIIT) Bhopal
 
 ### Connect With Me
 
-**LinkedIn:**  
-https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
+LinkedIn: https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
 
-**GitHub:**  
-https://github.com/Arpeet-Bhaisare
+GitHub: https://github.com/Arpeet-Bhaisare
 
 ---
 
