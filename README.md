@@ -95,6 +95,133 @@ certificates/
 README.md
 LICENSE
 ```
+## Repository Structure
+
+```bash
+dataset/
+source-code/
+screenshots/
+report/
+presentation/
+certificates/
+README.md
+LICENSE
+```
+
+---
+
+## Project Screenshots
+
+### First 5 Records in Diabetes Dataset
+
+![Dataset Preview](screenshots/first-5-records.PNG)
+
+---
+
+### Feature Correlation Output
+
+![Correlation Output](screenshots/feature-correlations-output.PNG)
+
+---
+
+### Correlation Heatmap
+
+![Heatmap](screenshots/correlation-heatmap.PNG)
+
+---
+
+### Diabetic vs Non-Diabetic Distribution
+
+![Barplot](screenshots/diabetic-vs-non-diabetic-barplot.PNG)
+
+---
+
+### Average Age Analysis
+
+![Average Age](screenshots/average-age-analysis.PNG)
+
+---
+
+### Logistic Regression Feature Weights
+
+![Weights](screenshots/logistic-regression-weights.PNG)
+
+---
+
+### Terminal Output
+
+![Terminal Output](screenshots/terminal-output.JPG)
+
+---
+
+## Project Files
+
+### Dataset
+
+* diabetes.csv
+
+### Source Code
+
+* diabetes-prediction-.py
+* main.c
+* read csv.cbp
+
+### Report
+
+* Report of the task.docx
+
+### Presentation
+
+* diabetes presentation.pptx
+
+---
+
+## Certifications
+
+### Internship Certificate
+
+* [Exposys Data Science Internship Certificate](certificates/exposys-data-science-internship-certificate.pdf)
+
+### Additional Learning Certifications
+
+* [Introduction to Data Science – Simplilearn](certificates/simplilearn-introduction-to-data-science-certificate.pdf)
+
+* [Basics of Machine Learning Algorithms – UniAthena & Cambridge International Qualifications](certificates/basics-of-machine-learning-certificate.pdf)
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Machine Learning
+* Logistic Regression
+* Classification Models
+* Python Programming
+* Pandas
+* NumPy
+* Scikit-Learn
+* Statistical Analysis
+
+---
+
+## Project Results
+
+The model analyzes patient health data and predicts the likelihood of diabetes based on medical indicators.
+
+Key tasks performed:
+
+* Dataset preprocessing
+* Feature correlation analysis
+* Data visualization
+* Model training
+* Logistic Regression implementation
+* Prediction generation
+* Accuracy evaluation
+
+---
 
 ---
 
