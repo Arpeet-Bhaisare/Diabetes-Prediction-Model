@@ -1,166 +1,69 @@
-# Diabetes Prediction Using Machine Learning
+# Diabetes Prediction using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Python](https://img.shields.io/badge/Python-ML-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange)
-![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-red)
-
----
 
 ## Project Overview
 
-This project was developed during my Data Science Internship at Exposys Data Labs Pvt. Ltd.
+This project predicts whether a patient is diabetic using Machine Learning algorithms.
 
-The objective of this project is to predict whether a patient is diabetic or non-diabetic using Machine Learning techniques and healthcare datasets.
+The project was developed during my Data Science Internship at Exposys Data Labs Pvt. Ltd.
 
-Early prediction of diabetes can help individuals take preventive measures and improve their lifestyle.
+## Objectives
 
----
-
-## Internship Details
-
-**Organization:** Exposys Data Labs Pvt. Ltd.
-
-**Domain:** Data Science
-
-**Duration:** 19 September 2022 – 18 October 2022
-
-**Intern:** Arpeet Bhaisare
-
-**Payment ID:** MOJO2919O05A75973585
-
----
-
-## Problem Statement
-
-Diabetes is a chronic disease affecting millions of people worldwide.
-
-The objective was:
-
-* Prepare the dataset
-* Train multiple machine learning models
-* Evaluate model performance
-* Build a model with high prediction accuracy
-
----
+- Data preprocessing
+- Feature analysis
+- Model training
+- Disease prediction
+- Accuracy evaluation
 
 ## Technologies Used
 
-* Python
-* Machine Learning
-* Data Analysis
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-
----
-
-## Project Workflow
-
-1. Data Collection
-2. Data Preprocessing
-3. Data Cleaning
-4. Feature Selection
-5. Model Training
-6. Model Evaluation
-7. Prediction
-
----
-
-## Repository Structure
-
-```text
-dataset/
-source-code/
-reports/
-presentations/
-screenshots/
-certificates/
-README.md
-LICENSE
-```
-
----
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
 ## Dataset
 
-The dataset contains medical attributes used for diabetes prediction, such as:
+The dataset contains medical attributes such as:
 
-* Glucose Level
-* Blood Pressure
-* BMI
-* Insulin
-* Age
-* Pregnancies
+- Pregnancies
+- Glucose
+- Blood Pressure
+- Skin Thickness
+- Insulin
+- BMI
+- Diabetes Pedigree Function
+- Age
 
----
+## Repository Structure
 
-## Machine Learning Process
+dataset/
+source-code/
+report/
+presentation/
+screenshots/
+certificates/
 
-* Dataset Preparation
-* Data Cleaning
-* Feature Engineering
-* Model Training
-* Accuracy Evaluation
-* Disease Prediction
+## Results
 
----
+The machine learning model predicts diabetes risk using patient health parameters.
 
-## Expected Output
+## Internship
 
-The model predicts:
+Exposys Data Labs Pvt. Ltd.
+Duration: 19 September 2022 – 18 October 2022
 
-* Diabetic
-* Non-Diabetic
+## Certifications
 
-based on patient health parameters.
-
----
-
-## Internship Deliverables
-
-As required by Exposys Data Labs:
-
-* Project Report
-* PowerPoint Presentation
-* Source Code
-* Demonstration Material
-
----
-
-## Learning Outcomes
-
-* Data Preprocessing
-* Data Analysis
-* Machine Learning Fundamentals
-* Classification Techniques
-* Healthcare Analytics
-* Model Evaluation
-
----
-
-## Future Improvements
-
-* Improve model accuracy
-* Deploy as a web application
-* Real-time prediction dashboard
-* Advanced healthcare analytics
-
----
+- Exposys Data Science Internship
+- Simplilearn Introduction to Data Science
+- UniAthena Basics of Machine Learning Algorithms
 
 ## Author
 
-**Arpeet Bhaisare**
-
-B.Tech – Electronics & Communication Engineering
-
-Indian Institute of Information Technology (IIIT) Bhopal
-
-### Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/arpeet-bhaisare-a02a061ba
-
-GitHub:
-https://github.com/Arpeet-Bhaisare
+Arpeet Bhaisare
+B.Tech ECE, IIIT Bhopal
