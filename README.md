@@ -117,7 +117,7 @@ Diabetes-Prediction-Model/
 │   └── project-report.docx
 │
 ├── presentation/
-│   └── diabetes presentation.pptx
+│   └── diabetes-presentation.pptx
 │
 ├── certificates/
 │   ├── exposys-data-science-internship-certificate.pdf
@@ -130,48 +130,35 @@ Diabetes-Prediction-Model/
 
 ---
 
-# Project Screenshots
+## Project Screenshots
 
-## First 5 Records in Diabetes Dataset
+### First 5 Records in Diabetes Dataset
 
 ![Dataset Preview](screenshots/first-5-records.PNG)
 
----
-
-## Feature Correlation Output
+### Feature Correlation Output
 
 ![Correlation Output](screenshots/feature-correlations-output.PNG)
 
----
+### Correlation Heatmap
 
-## Correlation Heatmap
+![Heatmap](screenshots/correlation-heatmap.PNG)
 
-![Correlation Heatmap](screenshots/correlation-heatmap.PNG)
-
----
-
-## Diabetic vs Non-Diabetic Distribution
+### Diabetic vs Non-Diabetic Distribution
 
 ![Barplot](screenshots/diabetic-vs-non-diabetic-barplot.PNG)
 
----
-
-## Average Age Analysis
+### Average Age Analysis
 
 ![Average Age](screenshots/average-age-analysis.PNG)
 
----
-
-## Logistic Regression Feature Weights
+### Logistic Regression Feature Weights
 
 ![Weights](screenshots/logistic-regression-weights.PNG)
 
----
-
-## Terminal Output
+### Terminal Output
 
 ![Terminal Output](screenshots/terminal-output.JPG)
-
 ---
 
 ## Project Workflow
@@ -208,12 +195,13 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 
 ### Python Implementation
 
-* diabetes_prediction.py
+* [diabetes_prediction.py](source-code/diabetes_prediction.py)
 
 ### Additional Files
 
-* main.c
-* read csv.cbp
+* [main.c](source-code/main.c)
+
+* [read csv.cbp](source-code/read%20csv.cbp)
 
 ---
 
@@ -225,7 +213,7 @@ The model analyzes patient health data and predicts the likelihood of diabetes b
 
 ### Presentation
 
-* [Project Presentation](presentation/diabetes%20presentation.pptx)
+* [Project Presentation](presentation/diabetes-presentation.pptx)
 
 ---
 
